@@ -7,4 +7,4 @@
 
 ####Instructor: Gavin Fay (`gfay@umassd.edu`)
 
-####For information and the syllabus open `MAR530_syllabus_spring2015.pdf`
+####For information and the syllabus open `MAR580_Spring2016_Models_for_EBM_syllabus.pdf`
